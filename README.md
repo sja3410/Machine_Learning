@@ -5,12 +5,17 @@ introdution to Machine Learning with Python
 + Sangmyung Univ. computer science
 
 ## DATE
-2020.12.31 ~
-
+  - 2020.12.31 ~
+  - every Thursday
+  
 ## contributer
-+ hyeji1221
-+ sunjungAn
-+ BaeEunGi
++ hyeji1221 [정리 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/hyejiLim) : [프로필](https://github.com/hyeji1221)
++ sunjungAn [정리 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/sunjungAn) : [프로필](https://github.com/sunjungAn)
++ BaeEunGi [정리 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/BaeEunGi) : [프로필](https://github.com/BaeEunGi)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ## sunjung
 
