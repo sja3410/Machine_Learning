@@ -32,6 +32,8 @@ introdution to Machine Learning with Python
 > + [배깅, 엑스트라 트리, 에이다부스트]()
 > + [커널 서포트 벡터 머신]()
 
+---------------------------------------------------------------------------------------------------------------------
+
 ## hyeji
 + [소개](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/%EC%86%8C%EA%B0%9C.md)
 + [붓꽃의 품종 분류](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter1%20%EB%B6%93%EA%BD%83%EC%9D%98%20%ED%92%88%EC%A2%85%20%EB%B6%84%EB%A5%98.ipynb)
