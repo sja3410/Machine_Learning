@@ -17,6 +17,7 @@ introdution to Machine Learning with Python
 > + [결정 트리](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC.ipynb)
 > + [결정 트리 앙상블](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%95%99%EC%83%81%EB%B8%94.ipynb)
 > + [배깅, 엑스트라 트리, 에이다부스트]()
+> + [커널 서포트 벡터 머신]()
 
 ## hyeji
 + [소개](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/%EC%86%8C%EA%B0%9C.md)
