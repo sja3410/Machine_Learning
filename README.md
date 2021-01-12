@@ -8,9 +8,9 @@ introdution to Machine Learning with Python
 2020.12.31 ~
 
 ## contributer
-+ [hyeji]
-+ [sunjungAn]
-+ [Bae
++ hyeji1221
++ sunjungAn
++ BaeEunGi
 
 ## sunjung
 
