@@ -1,9 +1,16 @@
 # Machine_Learning
 introdution to Machine Learning with Python
 
-**12/30**
-+ ~2.3.2 k-최근접 이웃 
+## Member Group
++ Sangmyung Univ. computer science
 
+## DATE
+2020.12.31 ~
+
+## contributer
++ [hyeji]
++ [sunjungAn]
++ [Bae
 
 ## sunjung
 
