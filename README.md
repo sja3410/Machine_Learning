@@ -13,6 +13,7 @@ introdution to Machine Learning with Python
 + [k-최근접 이웃](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/K-%EC%B5%9C%EA%B7%BC%EC%A0%91%20%EC%9D%B4%EC%9B%83.ipynb)
 + [선형 모델](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EC%84%A0%ED%98%95%20%EB%AA%A8%EB%8D%B8.ipynb)
 + [나이브 베이즈 분류기](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EB%82%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%A6%88%20%EB%B6%84%EB%A5%98%EA%B8%B0.ipynb)
++ [결정 트리](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC.ipynb)
 
 ## hyeji
 + [소개](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/%EC%86%8C%EA%B0%9C.md)
