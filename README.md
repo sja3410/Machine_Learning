@@ -42,3 +42,4 @@ introdution to Machine Learning with Python
   + [k-최근접 이웃](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.2%20k-%EC%B5%9C%EA%B7%BC%EC%A0%91%20%EC%9D%B4%EC%9B%83.ipynb)
   + [선형 모델, 나이브 베이즈 분류기](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.3%20%EC%84%A0%ED%98%95%20%EB%AA%A8%EB%8D%B8%20%26%202.3.4%20%EB%82%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%A6%88%20%EB%B6%84%EB%A5%98%EA%B8%B0.ipynb)
   + [결정 트리, 결정 트리의 앙상블](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.5%20%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC%20%26%202.3.6%20%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%95%99%EC%83%81%EB%B8%94.ipynb)
+  + [배깅, 엑스트라 트리, 에이다부스트](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.7%20%EB%B0%B0%EA%B9%85%2C%20%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%ED%8A%B8%EB%A6%AC%2C%20%EC%97%90%EC%9D%B4%EB%8B%A4%EB%B6%80%EC%8A%A4%ED%8A%B8.ipynb)
