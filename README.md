@@ -12,6 +12,7 @@ introdution to Machine Learning with Python
 ## Note site
 - 데이터 시각화(plot)관련 함수들 : https://blog.naver.com/leeys216/222212163973
 - 배치사이즈 용어 정리 : https://blog.naver.com/chrhdhkd/220700800509
+- 넘파이 튜토리얼 : [https://tensorflow.blog/%ed%95%b8%ec%a6%88%ec%98%a8](https://tensorflow.blog/%ed%95%b8%ec%a6%88%ec%98%a8-%eb%a8%b8%ec%8b%a0%eb%9f%ac%eb%8b%9d-1%ec%9e%a5-2%ec%9e%a5/%eb%84%98%ed%8c%8c%ec%9d%b4-%ed%8a%9c%ed%86%a0%eb%a6%ac%ec%96%bc/)
 ## contributor
 + hyeji1221 [정리 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/hyejiLim) : [프로필](https://github.com/hyeji1221)
 + sunjungAn [정리 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/sunjungAn) : [프로필](https://github.com/sunjungAn)
