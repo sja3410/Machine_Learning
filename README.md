@@ -11,6 +11,7 @@ introdution to Machine Learning with Python
  
 ## Note site
 - 데이터 시각화(plot)관련 함수들 : https://blog.naver.com/leeys216/222212163973
+- 배치사이즈 용어 정리 : https://blog.naver.com/chrhdhkd/220700800509
 ## contributor
 + hyeji1221 [정리 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/hyejiLim) : [프로필](https://github.com/hyeji1221)
 + sunjungAn [정리 폴더](https://github.com/sunjungAn/Machine_Learning/tree/master/sunjungAn) : [프로필](https://github.com/sunjungAn)
