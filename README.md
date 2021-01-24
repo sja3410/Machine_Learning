@@ -47,3 +47,5 @@ introdution to Machine Learning with Python
   + [선형 모델, 나이브 베이즈 분류기](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.3%20%EC%84%A0%ED%98%95%20%EB%AA%A8%EB%8D%B8%20%26%202.3.4%20%EB%82%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%A6%88%20%EB%B6%84%EB%A5%98%EA%B8%B0.ipynb)
   + [결정 트리, 결정 트리의 앙상블](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.5%20%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC%20%26%202.3.6%20%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%95%99%EC%83%81%EB%B8%94.ipynb)
   + [배깅, 엑스트라 트리, 에이다부스트](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.7%20%EB%B0%B0%EA%B9%85%2C%20%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%ED%8A%B8%EB%A6%AC%2C%20%EC%97%90%EC%9D%B4%EB%8B%A4%EB%B6%80%EC%8A%A4%ED%8A%B8.ipynb)
+  + [커널 서포트 벡터 머신](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.8%20%EC%BB%A4%EB%84%90%20%EC%84%9C%ED%8F%AC%ED%8A%B8%20%EB%B2%A1%ED%84%B0%20%EB%A8%B8%EC%8B%A0.ipynb)
+  + [신경망(딥러닝)](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.9%20%EC%8B%A0%EA%B2%BD%EB%A7%9D(%EB%94%A5%EB%9F%AC%EB%8B%9D).ipynb)
