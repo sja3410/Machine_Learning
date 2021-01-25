@@ -49,3 +49,4 @@ introdution to Machine Learning with Python
   + [배깅, 엑스트라 트리, 에이다부스트](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.7%20%EB%B0%B0%EA%B9%85%2C%20%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%ED%8A%B8%EB%A6%AC%2C%20%EC%97%90%EC%9D%B4%EB%8B%A4%EB%B6%80%EC%8A%A4%ED%8A%B8.ipynb)
   + [커널 서포트 벡터 머신](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.8%20%EC%BB%A4%EB%84%90%20%EC%84%9C%ED%8F%AC%ED%8A%B8%20%EB%B2%A1%ED%84%B0%20%EB%A8%B8%EC%8B%A0.ipynb)
   + [신경망(딥러닝)](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.9%20%EC%8B%A0%EA%B2%BD%EB%A7%9D(%EB%94%A5%EB%9F%AC%EB%8B%9D).ipynb)
+  + [분류 예측의 불확실성 추정](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.4%20%EB%B6%84%EB%A5%98%20%EC%98%88%EC%B8%A1%EC%9D%98%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%20%EC%B6%94%EC%A0%95.ipynb)
