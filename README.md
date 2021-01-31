@@ -39,7 +39,7 @@ introdution to Machine Learning with Python
 > + [분류 예측의 불확실성 추정](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EB%B6%84%EB%A5%98%20%EC%98%88%EC%B8%A1%EC%9D%98%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%20%EC%B6%94%EC%A0%95.ipynb)
 + **비지도 학습 알고리즘**
 > + [비지도 학습 개괄](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%20%EA%B0%9C%EA%B4%84.ipynb)
-> + [데이터 전처리와 스케일 조정]()
+> + [데이터 전처리와 스케일 조정](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80%20%EC%8A%A4%EC%BC%80%EC%9D%BC%20%EC%A1%B0%EC%A0%95.ipynb)
 ---------------------------------------------------------------------------------------------------------------------
 
 ## hyeji
