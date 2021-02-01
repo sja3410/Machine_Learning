@@ -48,7 +48,7 @@ introdution to Machine Learning with Python
 ## hyeji
 + [소개](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/%EC%86%8C%EA%B0%9C.md)
 + [붓꽃의 품종 분류](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter1%20%EB%B6%93%EA%BD%83%EC%9D%98%20%ED%92%88%EC%A2%85%20%EB%B6%84%EB%A5%98.ipynb)
-+ [지도학습](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.md)
++ [지도 학습](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.md)
   + [k-최근접 이웃](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.2%20k-%EC%B5%9C%EA%B7%BC%EC%A0%91%20%EC%9D%B4%EC%9B%83.ipynb)
   + [선형 모델, 나이브 베이즈 분류기](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.3%20%EC%84%A0%ED%98%95%20%EB%AA%A8%EB%8D%B8%20%26%202.3.4%20%EB%82%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%A6%88%20%EB%B6%84%EB%A5%98%EA%B8%B0.ipynb)
   + [결정 트리, 결정 트리의 앙상블](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.5%20%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC%20%26%202.3.6%20%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%95%99%EC%83%81%EB%B8%94.ipynb)
@@ -56,3 +56,7 @@ introdution to Machine Learning with Python
   + [커널 서포트 벡터 머신](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.8%20%EC%BB%A4%EB%84%90%20%EC%84%9C%ED%8F%AC%ED%8A%B8%20%EB%B2%A1%ED%84%B0%20%EB%A8%B8%EC%8B%A0.ipynb)
   + [신경망(딥러닝)](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.3.9%20%EC%8B%A0%EA%B2%BD%EB%A7%9D(%EB%94%A5%EB%9F%AC%EB%8B%9D).ipynb)
   + [분류 예측의 불확실성 추정](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter2.4%20%EB%B6%84%EB%A5%98%20%EC%98%88%EC%B8%A1%EC%9D%98%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%20%EC%B6%94%EC%A0%95.ipynb)
++ 비지도 학습  
+  + [비지도 학습 종류, 데이터 전처리와 스케일 조정](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter3.1~3.3%20%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%20%EC%A2%85%EB%A5%98%2C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80%20%EC%8A%A4%EC%BC%80%EC%9D%BC%20%EC%A1%B0%EC%A0%95.ipynb)
+  + [차원 축소, 특성 추출, 매니폴드 학습](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter3.4%20%EC%B0%A8%EC%9B%90%20%EC%B6%95%EC%86%8C%2C%20%ED%8A%B9%EC%84%B1%20%EC%B6%94%EC%B6%9C%2C%20%EB%A7%A4%EB%8B%88%ED%8F%B4%EB%93%9C%20%ED%95%99%EC%8A%B5.ipynb)
+  + [k-평균 군집](https://github.com/sunjungAn/Machine_Learning/blob/master/hyejiLim/chapter3.5.1%20k-%ED%8F%89%EA%B7%A0%20%EA%B5%B0%EC%A7%91.ipynb)
