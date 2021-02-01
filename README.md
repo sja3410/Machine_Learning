@@ -41,6 +41,7 @@ introdution to Machine Learning with Python
 > + [비지도 학습 개괄](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%20%EA%B0%9C%EA%B4%84.ipynb)
 > + [데이터 전처리와 스케일 조정](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80%20%EC%8A%A4%EC%BC%80%EC%9D%BC%20%EC%A1%B0%EC%A0%95.ipynb)
 > + [차원 축소, 특성 추추, 매니폴드 학습]()
+>> [주성분 분석(PCA)]()
 > + [k-군집]()
 ---------------------------------------------------------------------------------------------------------------------
 
