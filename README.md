@@ -42,7 +42,7 @@ introdution to Machine Learning with Python
 > + [데이터 전처리와 스케일 조정](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%EC%99%80%20%EC%8A%A4%EC%BC%80%EC%9D%BC%20%EC%A1%B0%EC%A0%95.ipynb)
 > + [차원 축소, 특성 추출, 매니폴드 학습](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EC%B0%A8%EC%9B%90%20%EC%B6%95%EC%86%8C%2C%20%ED%8A%B9%EC%84%B1%20%EC%B6%94%EC%B6%9C%20%EB%A7%A4%EB%8B%88%ED%8F%B4%EB%93%9C%20%ED%95%99%EC%8A%B5.ipynb)
 > + [군집](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EA%B5%B0%EC%A7%91.ipynb)
->> + [병합 군집]()
+>> + [병합 군집](https://github.com/sunjungAn/Machine_Learning/blob/master/sunjungAn/%EB%B3%91%ED%95%A9%20%EA%B5%B0%EC%A7%91.ipynb)
 -----------------------------------------------------------------------------------------------
 
 ## hyeji
