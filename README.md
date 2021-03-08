@@ -6,7 +6,7 @@ introdution to Machine Learning with Python
 + AI study 
 
 ## DATE
-  - 2020.12.31 ~
+  - 2020.12.31 ~ 2021.02.26
   - every Thursday
  
 ## Note site
